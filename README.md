@@ -1,6 +1,6 @@
 # Github Pages "I just want to get on with it" edition
 
-This set of scripts is to get you up and running a Jekyll based Github Pages, right here, right now.
+A few scripts to get your own Jekyll-and-Github-Pages-based website, right here, right now.
 
 ## Bootstrapping
 
