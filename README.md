@@ -1,8 +1,8 @@
-## Github Pages "I just want to get on with it" edition
+# Github Pages "I just want to get on with it" edition
 
 This set of scripts is to get you up and running a Jekyll based Github Pages, right here, right now.
 
-### Bootstrapping
+## Bootstrapping
 
 - [Create](https://github.com/join) a Github account
 - [Log in](https://github.com/login) to Github
