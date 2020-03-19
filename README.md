@@ -20,4 +20,4 @@ This set of scripts is to get you up and running a Jekyll based Github Pages, ri
 - docker-compose up
 - visit http://localhost:4000
 
-Note: These scripts have some hardcoded version numbers that will need to be adjusted whenever Github updates their [https://pages.github.com/versions/](dependency versions). Feel free to open an issue if you notice the change before I did.
+Note: These scripts have some hardcoded version numbers that will need to be adjusted whenever Github updates their [dependency versions](https://pages.github.com/versions). Feel free to open an issue if you notice the change before I did.
